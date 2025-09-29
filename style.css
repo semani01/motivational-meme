@@ -1,7 +1,7 @@
 html{
     background-color: black;
     color: white;
-    background-image: url(./assets/images/stars.jpg)
+    background-image: url(./assests/images/stars.jpg)
 }
 
 #div1{
@@ -29,3 +29,4 @@ p{
     font-weight: 600;
     font-size: large;
 }
+
